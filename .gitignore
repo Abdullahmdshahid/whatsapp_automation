@@ -1,0 +1,6 @@
+venv
+.pytest_cache
+report.html
+.idea
+bash.exe.stackdump
+__pycache__/

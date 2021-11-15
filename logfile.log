@@ -1,0 +1,27 @@
+2021-11-15 18:33:05,526 :INFO : test_tc_001 :Display searched contact
+2021-11-15 18:33:12,924 :INFO : test_tc_002 :Successfully send message
+2021-11-15 18:33:22,183 :INFO : test_003 :Successfully write result on excel
+2021-11-15 18:33:27,292 :INFO : test_tc_004 :Successfully write message status on excel
+2021-11-15 18:33:52,341 :INFO : test_tc_005 :Successfully logout from whatsapp
+2021-11-15 18:41:14,936 :INFO : test_tc_001 :Display searched contact
+2021-11-15 18:41:21,613 :INFO : test_tc_002 :Successfully send message
+2021-11-15 18:41:29,613 :INFO : test_003 :Successfully write result on excel
+2021-11-15 18:41:34,980 :INFO : test_tc_004 :Successfully write message status on excel
+2021-11-15 18:41:41,102 :INFO : test_tc_005 :Successfully logout from whatsapp
+2021-11-15 19:24:45,852 :INFO : test_tc_001 :Display searched contact
+2021-11-15 19:33:08,452 :INFO : test_tc_002 :Successfully send message
+2021-11-15 19:45:49,785 :INFO : test_tc_001 :Display searched contact
+2021-11-15 19:45:55,604 :INFO : test_tc_002 :Successfully send message
+2021-11-15 20:01:45,390 :INFO : test_tc_001 :Display searched contact
+2021-11-15 20:02:10,618 :INFO : test_tc_002 :Successfully send message
+2021-11-15 20:02:20,554 :INFO : test_tc_005 :Successfully logout from whatsapp
+2021-11-15 20:06:16,380 :INFO : test_tc_001 :Display searched contact
+2021-11-15 20:06:22,102 :INFO : test_tc_002 :Successfully send message
+2021-11-15 20:06:29,391 :INFO : test_003 :Successfully write result on excel
+2021-11-15 20:06:34,449 :INFO : test_tc_004 :Successfully write message status on excel
+2021-11-15 20:06:39,709 :INFO : test_tc_005 :Successfully logout from whatsapp
+2021-11-15 20:24:22,656 :INFO : test_tc_001 :Display searched contact
+2021-11-15 20:24:28,673 :INFO : test_tc_002 :Successfully send message
+2021-11-15 20:24:35,083 :INFO : test_003 :Successfully write result on excel
+2021-11-15 20:24:40,152 :INFO : test_tc_004 :Successfully write message status on excel
+2021-11-15 20:24:45,395 :INFO : test_tc_005 :Successfully logout from whatsapp
