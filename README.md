@@ -1,11 +1,11 @@
-# whatsapp_automation
+# Whatsapp automation
 
 ## Description
 
-This is a whatsapp web base automation script which is created by selenium based framework. Using this script we can do this thing:
+This is a whatsapp web base automation script which is created by selenium based framework. Using this script we can do this following this thing:
 
 * Picked number from Excel file and search.
-* Searched number and send text message.
+* Searched number and send text message in this number.
 * Check sent successful status and send a "send" message into Excel.
 * Check seen/non seen status and send a "seen/not seen" message into Excel.
 * Automatic logout.
@@ -20,7 +20,7 @@ This is a whatsapp web base automation script which is created by selenium based
 https://github.com/Abdullahmdshahid/whatsapp_automation.git
 ```
 
-* 2nd install requerments
+* 2nd install requirements
 
 ```
 pip install -r requirements.txt
