@@ -25,3 +25,36 @@
 2021-11-15 20:24:35,083 :INFO : test_003 :Successfully write result on excel
 2021-11-15 20:24:40,152 :INFO : test_tc_004 :Successfully write message status on excel
 2021-11-15 20:24:45,395 :INFO : test_tc_005 :Successfully logout from whatsapp
+2021-11-16 10:45:28,449 :INFO : test_tc_002 :Successfully send message
+2021-11-16 10:45:35,134 :INFO : test_003 :Successfully write result on excel
+2021-11-16 10:45:40,951 :INFO : test_tc_004 :Successfully write message status on excel
+2021-11-16 10:45:46,945 :INFO : test_tc_005 :Successfully logout from whatsapp
+2021-11-16 10:48:14,952 :INFO : test_tc_001 :Display searched contact
+2021-11-16 10:48:20,926 :INFO : test_tc_002 :Successfully send message
+2021-11-16 10:48:27,912 :INFO : test_003 :Successfully write result on excel
+2021-11-16 10:48:34,975 :INFO : test_tc_004 :Successfully write message status on excel
+2021-11-16 10:48:40,162 :INFO : test_tc_005 :Successfully logout from whatsapp
+2021-11-16 10:52:37,090 :INFO : test_tc_002 :Successfully send message
+2021-11-16 10:52:43,501 :INFO : test_003 :Successfully write result on excel
+2021-11-16 10:52:49,331 :INFO : test_tc_004 :Successfully write message status on excel
+2021-11-16 10:52:56,587 :INFO : test_tc_005 :Successfully logout from whatsapp
+2021-11-16 18:40:30,202 :INFO : test_tc_001 :Display searched contact
+2021-11-17 09:52:17,636 :INFO : test_tc_002 :Successfully send message
+2021-11-17 09:52:24,935 :INFO : test_003 :Successfully write result on excel
+2021-11-17 09:52:30,168 :INFO : test_tc_004 :Successfully write message status on excel
+2021-11-17 09:52:37,601 :INFO : test_tc_005 :Successfully logout from whatsapp
+2021-11-17 10:08:47,086 :INFO : test_tc_002 :Successfully send message
+2021-11-17 10:08:53,672 :INFO : test_003 :Successfully write result on excel
+2021-11-17 10:08:58,752 :INFO : test_tc_004 :Successfully write message status on excel
+2021-11-17 10:09:04,050 :INFO : test_tc_005 :Successfully logout from whatsapp
+2021-11-17 10:11:13,772 :INFO : test_tc_001 :Display searched contact
+2021-11-17 10:11:19,706 :INFO : test_tc_002 :Successfully send message
+2021-11-17 10:11:25,858 :INFO : test_003 :Successfully write result on excel
+2021-11-17 10:11:30,919 :INFO : test_tc_004 :Successfully write message status on excel
+2021-11-17 10:11:36,137 :INFO : test_tc_005 :Successfully logout from whatsapp
+2021-11-17 11:49:00,807 :INFO : test_tc_003 :Successfully write result on excel
+2021-11-17 13:45:24,560 :INFO : test_tc_001 :Display searched contact
+2021-11-17 13:45:31,532 :INFO : test_tc_002 :Successfully send message
+2021-11-17 13:45:45,252 :INFO : test_tc_003 :Successfully write result on excel
+2021-11-17 13:45:50,695 :INFO : test_tc_004 :Successfully write message status on excel
+2021-11-17 13:45:57,710 :INFO : test_tc_005 :Successfully logout from whatsapp

@@ -22,7 +22,7 @@ class Test(BaseTestClass):
         a.info("Successfully send message")
         time.sleep(5)
 
-    def test_003(self):
+    def test_tc_003(self):
         a = self.log()
         index = Index(self.chrome_webdriver)
         index.search_contact().send_keys(SampleData.NUMBER, Keys.ENTER)
@@ -33,7 +33,7 @@ class Test(BaseTestClass):
         last_sent_reverse = last_sent[-1]
         last_sent_aria_label_value = last_sent_reverse.get_attribute('aria-label')
 
-        if last_sent == ' Read ' or last_sent_aria_label_value == ' Delivered ':
+        if last_sent_aria_label_value == ' Read ' or last_sent_aria_label_value == ' Delivered ':
             SampleData.sh1.cell(row=2, column=2, value='sent')
             SampleData.exl.save(SampleData.exl_save)
         a.info("Successfully write result on excel")
@@ -44,9 +44,9 @@ class Test(BaseTestClass):
 
         last_seen = self.chrome_webdriver.find_elements_by_xpath('//span[@data-testid="msg-dblcheck"]')
         last_seen_reverse = last_seen[-1]
-        area_label_dblcheck = last_seen_reverse.get_attribute('aria-label')
+        aria_label_dblcheck = last_seen_reverse.get_attribute('aria-label')
 
-        if area_label_dblcheck == ' Read ':
+        if aria_label_dblcheck == ' Read ':
             SampleData.sh1.cell(row=2, column=3, value='Seen')
             SampleData.exl.save(SampleData.exl_save)
         else:
